@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>FEB II</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
-
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="formação-econômica-do--brasil-ii">Formação Econômica do  Brasil II</h1>
+<h1 id="formação-econômica-do--brasil-ii">Formação Econômica do  Brasil II</h1>
 <p>Fábio Campos<br>
 Grupo: Allan, Zé, Erik, Paulinho, Liw, Vitor, Daniel e Paula<br>
 PED: <a href="mailto:unger.rafa@gmail.com">unger.rafa@gmail.com</a></p>
@@ -40,7 +29,4 @@ PED: <a href="mailto:unger.rafa@gmail.com">unger.rafa@gmail.com</a></p>
 <strong>1ª Vertente</strong>: Caem as exportações <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.36687em; vertical-align: 0em;"></span><span class="mrel">→</span></span></span></span></span> Fortalece a Indústria.<br>
 <strong>2ª Vertente</strong>:  Aumentam as exportações <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.36687em; vertical-align: 0em;"></span><span class="mrel">→</span></span></span></span></span> aumentam as dividas <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.36687em; vertical-align: 0em;"></span><span class="mrel">→</span></span></span></span></span> Fortalece a Indústria.<br>
 <strong>3ª Vertente</strong>: Os dois anteriores ao mesmo tempo.</p>
-</div>
-</body>
 
-</html>
